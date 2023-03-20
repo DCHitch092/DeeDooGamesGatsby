@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Games Worth Playing
+image: /img/bunny_kingdom.jpg
+heading: Unique themed games
+subheading: Fun at any cost
 mainpitch:
-  title: Why Kaldi
+  title: Why Dee Doo?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Dee Doo Games are a new outfit from Father and wife couple from Edinburgh. We have loved playing games throughout our relationship, and with our experiences in writing, graphic design and passion for art and gaming, we thought we could turn our artistic energy to making games we'd love to play.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
