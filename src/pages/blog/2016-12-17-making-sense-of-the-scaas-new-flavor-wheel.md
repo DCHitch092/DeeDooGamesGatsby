@@ -1,33 +1,26 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: Hello World(s)
+date: 2023-04-02T20:21:11.293Z
+description: A new board game company is born
+featuredpost: true
+featuredimage: /img/craiyon_212632_board_game_is_born.png
 tags:
-  - flavor
-  - tasting
+  - website
+  - introductions
+  - goals
+  - blog
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![AI generated image of a brand new board game](/img/craiyon_212632_board_game_is_born.png)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+On this blog, I hope to convey our very genuine passion for games. We love playing together and have tinkered around writing/podcasting our thoughts on gaming for a while. It would be reductive to try and pin down our tastes within a single article, but we often play co-operative games together, mostly to avoid conflict, but because we enjoy the discussion and conversation while we play.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+But why should you care about what we make? Well, we have been desperate to find an avenue for our skills. Formerly sketch and podcast partners, we have written and performed comedy together for our entire relationship, but as our family grows, our time for nonsense passion projects diminishes. But this is where a board game business begins - with over a decade working in visual design, I have the expertise to put together a professional product, while Marianne has a passion for illustration that has lasted all her life that is waiting to be unleashed. Add our unique dash of fun, and you have the recipe for a game worth paying attention to.
 
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Dee Doo games will bring some unique themes to life. Following our nouse for a good mechanism, we have already outlined a number of games and their themes which will be fleshed out and tested in the hope of being self-published in the next few years. Expect unusual themes, unexplored worlds and a dollop of humour. We are excited about the future and hope you will join us as we take our ideas to the printers.\
+\
+H﻿owever, what is important to us is building a sustainable business, in aall senses of the word. Games will be fun and worth owning, something you'd delight in telling friends about and replaying again and again. Where we can, we will use renewable materials and find ways to lower our carbon footprint. But most critically, we are building a company without a limited shelf-life - we want to be an enduring company that you'll learn to trust over the years. At some point, we will ask you to help make our dreams a reality - getting our funding goals over the line, or getting the word out about a project. We also hope to provide early access to games for testing and other content that will make our projects one worth knowing about.\
+\
+I﻿f you'd like to join us, the best way for now is join our mailing list - we won't hound you (until strictly necessary) but will keep you in the loop, and even provide offers where you can buy direct from us once we have that side of things up and running...\
+\
+*\*This is an old joke we've had together, and stems from the generation game, an old British Saturday night show. The premise was two players in each team would try their hand at various activities and be graded for it, with the most competent given the chance to memorise a conveyor belt's worth of prizes. Importantly, each team had to come from two generations but be united by blood in some way, while usually also being different genders - and so they would be described as 'father and daughter'. We are of course just your everyday married couple who are also parents. We also have the same birthday so the age difference is minuscule to say the least.*
