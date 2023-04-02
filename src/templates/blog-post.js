@@ -5,6 +5,7 @@ import { Helmet } from "react-helmet";
 import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import MailingListSignUp frp, "../components/MailingListSignUp";
 
 // eslint-disable-next-line
 export const BlogPostTemplate = ({
@@ -28,6 +29,7 @@ export const BlogPostTemplate = ({
             </h1>
             <p>{description}</p>
             <PostContent content={content} />
+            <MailingListSignUp />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
