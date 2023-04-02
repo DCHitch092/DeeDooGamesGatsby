@@ -75,6 +75,14 @@ module.exports = {
         purgeOnly: ["/all.sass"], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+        options: {
+          endpoint: 'https://games.us11.list-manage.com/subscribe/post?u=f1faddaafa756755d023657f1&amp;id=686a9e9f6c&amp;f_id=00e19ce0f0',
+        },
+    },
     "gatsby-plugin-netlify", // make sure to keep it last in the array
+
   ],
+
 };
